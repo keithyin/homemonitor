@@ -1,0 +1,2 @@
+rootProject.name = "HomeMonitor"
+include ':app'
